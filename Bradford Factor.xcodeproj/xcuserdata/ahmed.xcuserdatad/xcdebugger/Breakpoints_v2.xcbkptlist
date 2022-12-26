@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1382957A-32C3-498E-A525-A705AEACF395"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9ED148FC-9CD4-4F86-A3CF-E89A3CE5B167"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bradford Factor/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B47888F-21C2-4488-9F2D-6A0326CEFB43"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bradford Factor/Controllers/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "1B47888F-21C2-4488-9F2D-6A0326CEFB43 - 8264b498ae58684c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bradford_Factor.ViewController.calcLbl.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Bradford Factor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IOS/Projects/Bradford-Factor/Bradford%20Factor/Bradford%20Factor/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "85">
+               </Location>
+               <Location
+                  uuid = "1B47888F-21C2-4488-9F2D-6A0326CEFB43 - 3d4eefb015cdf858"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bradford_Factor.ViewController.calcLbl.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Bradford Factor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IOS/Projects/Bradford-Factor/Bradford%20Factor/Bradford%20Factor/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "1B47888F-21C2-4488-9F2D-6A0326CEFB43 - 3f0481de0daffc4b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bradford_Factor.ViewController.calcLbl.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "Bradford Factor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IOS/Projects/Bradford-Factor/Bradford%20Factor/Bradford%20Factor/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "1B47888F-21C2-4488-9F2D-6A0326CEFB43 - 592375d0042f1a46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bradford_Factor.ViewController.calcLbl.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Bradford Factor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IOS/Projects/Bradford-Factor/Bradford%20Factor/Bradford%20Factor/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1B47888F-21C2-4488-9F2D-6A0326CEFB43 - b6c05f0f70d19f58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bradford_Factor.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Bradford_Factor.ViewController"
+                  moduleName = "Bradford Factor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IOS/Projects/Bradford-Factor/Bradford%20Factor/Bradford%20Factor/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "306">
+               </Location>
+               <Location
+                  uuid = "1B47888F-21C2-4488-9F2D-6A0326CEFB43 - f79cc99797f53d5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Bradford_Factor.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Bradford_Factor.ViewController&gt;"
+                  moduleName = "Bradford Factor"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahmed/Desktop/IOS/Projects/Bradford-Factor/Bradford%20Factor/Bradford%20Factor/Controllers/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "263">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30C4B7D0-8184-49C6-A366-331ED2DF4E96"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Bradford Factor/Controllers/ResultsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

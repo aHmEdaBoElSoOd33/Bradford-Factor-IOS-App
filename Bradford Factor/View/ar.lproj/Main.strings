@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "النتيجة "; ObjectID = "Jpr-Vu-Koi"; */
+"Jpr-Vu-Koi.text" = "النتيجة ";
+
+/* Class = "UIButton"; normalTitle = "احسب معامل البرادفورد"; ObjectID = "TQ2-IQ-Cqn"; */
+"TQ2-IQ-Cqn.normalTitle" = "احسب معامل البرادفورد";
+
+/* Class = "UILabel"; text = "عامل برادفورد للموظفين"; ObjectID = "XOD-mY-DtI"; */
+"XOD-mY-DtI.text" = "عامل برادفورد للموظفين";
+
+/* Class = "UILabel"; text = "احسب مرة أخرى"; ObjectID = "ZLe-jE-fOo"; */
+"ZLe-jE-fOo.text" = "احسب مرة أخرى";
+
+/* Class = "UILabel"; text = "عدد أيام الغياب المنفصلة"; ObjectID = "dKR-hc-zRQ"; */
+"dKR-hc-zRQ.text" = "عدد أيام الغياب المنفصلة";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "gaR-eK-Za6"; */
+"gaR-eK-Za6.text" = "1";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "iyM-Rj-LAg"; */
+"iyM-Rj-LAg.text" = "1";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "qse-hS-FdP"; */
+"qse-hS-FdP.text" = "5";
+
+/* Class = "UILabel"; text = "لا توجد مشكلة"; ObjectID = "tLm-d8-Mvt"; */
+"tLm-d8-Mvt.text" = "لا توجد مشكلة";
+
+/* Class = "UILabel"; text = "عدد أيام الغياب الكلي"; ObjectID = "tqD-9x-42v"; */
+"tqD-9x-42v.text" = "عدد أيام الغياب الكلي";
